@@ -1,4 +1,4 @@
-![](test/cover2.png)
+![](image/cover2.png)
 
 <h1 align="center">Lochinvar De Laeno</h1>
 <p align="center">
