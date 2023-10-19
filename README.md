@@ -36,12 +36,21 @@ Completed in 2020 <br><br></p>
 
 
 <h1 align="left">Certifications and Participations</h1>
-
-
-
-
-
-
+<p align ="left"><a href="https://drive.google.com/file/d/1UsUIsK1QuYYB4LfqzC2YtujV1MfmDuvJ/view?usp=share_link" >Introduction to ChatGPT</a> <br>
+    Datacamp <br>
+    September 02, 2023</p>
+<p align ="left"><a href="https://drive.google.com/file/d/1ost7FSO-5pLmbEmeW1DU6U25IOaThPUI/view?usp=share_link" >SSL</a> <br>
+    New Era University <br>
+    April 15, 2023</p>
+<p align ="left"><a href="https://drive.google.com/file/d/1MHzHeehepGKrWEJeq5bE5LbpcvsfhWHF/view?usp=share_link" >Hypervisor / ESXi</a> <br>
+    New Era University <br>
+    April 15, 2023</p>
+<p align ="left"><a href="https://drive.google.com/file/d/1MHzHeehepGKrWEJeq5bE5LbpcvsfhWHF/view?usp=share_link" >Hello, New World: Webinat Summit</a> <br>
+    New Era University <br>
+    March 30, 2023</p>
+<p align ="left"><a href="https://drive.google.com/file/d/1MHzHeehepGKrWEJeq5bE5LbpcvsfhWHF/view?usp=share_link" >Data Engineering for Everyone</a> <br>
+    Datacamp <br>
+    April 30, 2022</p>
 
 
 
