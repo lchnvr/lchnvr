@@ -1,6 +1,6 @@
 ![](image/cover2.png)
 
-<h1 align="center">Lochinvar De Laeno</h1>
+<h1 align="center">Lochinvar De Leon</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/lochinvar-de-leon-97b796266/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
