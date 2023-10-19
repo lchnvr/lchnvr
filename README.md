@@ -45,7 +45,7 @@ Completed in 2020 <br><br></p>
 <p align ="left"><a href="https://drive.google.com/file/d/1MHzHeehepGKrWEJeq5bE5LbpcvsfhWHF/view?usp=share_link" >Hypervisor / ESXi</a> <br>
     New Era University <br>
     April 15, 2023</p>
-<p align ="left"><a href="https://drive.google.com/file/d/1MHzHeehepGKrWEJeq5bE5LbpcvsfhWHF/view?usp=share_link" >Hello, New World: Webinat Summit</a> <br>
+<p align ="left"><a href="https://drive.google.com/file/d/1fILwWZJswN0-8z0OKfBWuXLMaIc9LQcR/view?usp=share_link" >Hello, New World: Webinat Summit</a> <br>
     New Era University <br>
     March 30, 2023</p>
 <p align ="left"><a href="https://drive.google.com/file/d/1ryRcI0QXPmVu54JjaBzkEoDwTc0siNTp/view?usp=share_link" >Data Engineering for Everyone</a> <br>
