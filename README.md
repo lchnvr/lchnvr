@@ -3,18 +3,15 @@
 <h1 align="center">Lochinvar De Leon</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/lochinvar-de-leon-97b796266/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp
     <a href="mailto: lchnvrdeleon@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website">
-    </a>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>&nbsp
     <a href="https://www.facebook.com/lochinvar.deleon/">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-    </a>
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>&nbsp
     <a href="https://www.instagram.com/lchnvr_/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>&nbsp
 </p>
+<h3 align="center">A 4th-Year Information Technology Student at New Era University, Quezon City, Philippines</h3><br><br><br>
 
 
 <h1 align="left">Languages and Tools:</h1>
@@ -30,3 +27,23 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> &nbsp &nbsp &nbsp &nbsp
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> &nbsp &nbsp &nbsp &nbsp
 </p><br>
+
+<h1 align="left">Education</h1>
+<p align="left">Bachelor of Science in Information Technology | New Era University <br>
+Present (Graduating) <br></p>
+<p align="left"> ITMAWD (SHS) | STI College Muñoz-EDSA <br>
+Completed in 2020 <br><br></p>
+
+
+<h1 align="left">Certifications and Participations</h1>
+
+
+
+
+
+
+
+
+
+
+
