@@ -36,6 +36,9 @@ Completed in 2020 <br><br></p>
 
 
 <h1 align="left">Certifications and Participations</h1>
+<p align ="left"><a href="https://drive.google.com/file/d/1WaVhBf3yfXbh2MMz37cB9vGUAiB8otwM/view?usp=sharing" >OCI AI Foundation Associate</a></a> <br>
+    Oracle <br>
+    November 10, 2023</p>
 <p align ="left"><a href="https://drive.google.com/file/d/1UsUIsK1QuYYB4LfqzC2YtujV1MfmDuvJ/view?usp=share_link" >Introduction to ChatGPT</a> <br>
     Datacamp <br>
     September 02, 2023</p>
